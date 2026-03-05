@@ -1,6 +1,6 @@
 # agent-card skill
 
-An agent skill for managing prepaid virtual Visa cards through [Agent Cards](https://github.com/keyserfaty/agent-cards) MCP tools. Works with Claude Code, Codex, and any agent that supports [skills.sh](https://skills.sh).
+An agent skill for managing prepaid virtual Visa cards through [Agent Cards](https://agentcard.sh) MCP tools. Works with Claude Code, Codex, and any agent that supports [skills.sh](https://skills.sh).
 
 ## Install
 
@@ -20,7 +20,7 @@ This skill teaches your AI agent how to:
 
 ## Prerequisites
 
-You need the Agent Cards MCP server connected to your agent. See the [MCP setup guide](https://github.com/keyserfaty/agent-cards#mcp-server) for stdio or HTTP configuration.
+You need the Agent Cards MCP server connected to your agent. See the [MCP server repo](https://github.com/agent-cards/mcp) for stdio and HTTP setup instructions.
 
 ## Usage
 
